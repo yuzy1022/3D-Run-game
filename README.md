@@ -4,7 +4,7 @@
 프로젝트 진행 기간 : 22.04.24 \~ 22.04.29
 
 # 사용 기술 및 환경
-Unity (v2020.3.30f1), C#
+Unity (2020.3.30f1), C#
 
 # 컨텐츠 및 게임 설명
 <a href="https://github.com/yuzy1022/3D-Run-game/wiki#%EC%A7%84%ED%96%89-%EB%B0%A9%EC%8B%9D">진행 방식</a>  
